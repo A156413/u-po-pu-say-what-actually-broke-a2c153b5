@@ -10,7 +10,7 @@ shifting, and lands the joke on the only copy that survives.
 import os
 
 TEXT = (
-    "Your file didn't save — the app crashed mid-save, "
+    "Your file didn't save. The app crashed mid-save, "
     "and the only copy left is the one in your head. "
     "There is no undo for that. Sorry."
 )
